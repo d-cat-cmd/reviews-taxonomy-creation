@@ -1,0 +1,6 @@
+Length_buckets,COUNTA of Length_buckets
+<10 words,30
+10 - 19 words,80
+100+ words,2
+20 - 49 words,95
+50 - 99 words,43
